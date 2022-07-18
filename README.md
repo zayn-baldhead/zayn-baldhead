@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @zayn-baldhead
+- 👀 I’m interested in programing
+- 🌱 I’m currently learning python
+- 📫 How to reach me amrzynw3@gmail.com
